@@ -1,0 +1,26 @@
+{
+    "id": "33312B64",
+    "path": "~/GitHub/gender-differences-migration-gravity/code/02_exploratoryAnalysis.R",
+    "project_path": "code/02_exploratoryAnalysis.R",
+    "type": "r_source",
+    "hash": "782259228",
+    "contents": "",
+    "dirty": false,
+    "created": 1752064129881.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,23",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1752064152,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1752064152419,
+    "read_only": false,
+    "read_only_alternatives": []
+}
